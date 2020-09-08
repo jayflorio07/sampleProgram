@@ -2,6 +2,8 @@
 						Student: Jasur Shukurov
 						Professor: Saleh Aliyari
 						Class: CSC 270-002: Survey of Programming Languages
+
+            THIS IS A TEST FOR JANINE TO LEARN HOW TO USER GITHUB 
 							
 *******************************************************************************/
 
@@ -12,7 +14,7 @@
 const int y_side = 3; // constant the size of side 
 const int x_side = 3; // constant the size of side 
 const char X_move = 'X'; // constant for user move 
-const char O_move = 'O'; // constant for computer move 
+const char O_move = 'J'; // constant for computer move 
 
 int gameOver = 0; // variable to check game is over 
 
